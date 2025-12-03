@@ -3,7 +3,7 @@
 Este proyecto utiliza archivos `.env` para manejar credenciales, rutas y configuraciones específicas tanto **globales** como **locales por proyecto**.  
 Para mantener buenas prácticas, todos los archivos sensibles están excluidos del repositorio utilizando `.gitignore`.
 
-Sigue los pasos a continuación para preparar tu entorno correctamente.
+--Sigue los pasos a continuación para preparar tu entorno correctamente.
 
 ---
 
